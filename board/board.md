@@ -47,8 +47,9 @@
 
 
 
+- [Game of Life - Jenky](https://codepen.io/jenkynolasco11/pen/aBYwBX)
 
-
+![](pic/jenky.png)
 
 
 
